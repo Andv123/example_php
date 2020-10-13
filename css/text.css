@@ -1,0 +1,25 @@
+.container {
+	text-align: center;
+}	
+	.form {		
+		background-color: #99FF99;
+		text-align: left;
+		height: auto;
+		width: 500px;
+		border: 1px;
+		border-style: solid;
+		border-color: blue;
+	}
+	.form h1 {
+		text-align: center;
+	}
+	.group {
+		padding-left: 50px;
+	}
+	.icon-group {
+		float: right;
+	}
+	a {
+		color: #ffffff;
+	}
+	
